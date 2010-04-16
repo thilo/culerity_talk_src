@@ -1,0 +1,16 @@
+*.tmproj
+config/database.yml
+log/*.log
+log/*.pid
+tmp/**/*
+tmp/*
+.DS_Store
+coverage
+db/*.sqlite3
+db/schema.rb
+webrat-*
+public/system
+rerun.txt
+mkmf.log
+capybara-*
+.rake_tasks~

@@ -1,0 +1,3 @@
+Example App to demonstrate the usage of culerity (http://github.com/langalex/culerity).
+
+You can run the tests with rake features. 
